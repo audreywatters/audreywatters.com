@@ -51,3 +51,17 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+  
+  
+permalink: /:categories/:year/:month/:day/:title 
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+
+paginate: 15
+paginate_path: "/blog/page:num"
+
+production_url : http://apievangelist.com
+
+BASE_PATH : http://apievangelist.com
+
+categories_path : /categories.html
+tags_path : /tags.html  
