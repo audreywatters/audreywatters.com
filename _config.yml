@@ -51,7 +51,7 @@ social:
 #    share_title:
 #    share_link:
 
-  - icon: fa fa-rss
+  - icon: rss
     url:  http://feeds.feedburner.com/audreywatters
     desc: Subscribe
     share_url:
