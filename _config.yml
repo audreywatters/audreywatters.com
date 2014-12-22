@@ -35,7 +35,6 @@ BASE_PATH : http://apievangelist.com
 categories_path : /categories.html
 tags_path : /tags.html
 
-
 # social icons and sharing options
 social:
   - icon:	twitter
