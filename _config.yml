@@ -5,13 +5,13 @@ highlighter: pygments
 # Site settings
 title: "Audrey Watters"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Writer, Rabble-rouser
 
 email: mail@audreywatters.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/notredame.jpg"
 
 name: 'Audrey Watters'
 author: 'Audrey Watters'
