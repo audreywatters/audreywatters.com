@@ -53,7 +53,7 @@ social:
     share_link:
 
   - icon: rss
-    url:  http://feeds.feedburner.com/audreywatters
+    url:  http://audreywatters.com/feed.xml
     desc: Subscribe
     share_url:
     share_title:
