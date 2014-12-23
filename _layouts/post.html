@@ -68,7 +68,6 @@
             <section class="author">
               <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
               <h4>{{ site.author }}</h4>
-              <p class="bio">{{author.bio}}</p>
               <hr>
               <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
             </section>
@@ -77,7 +76,8 @@
           <div class="isRight">
             <h5 class="index-headline featured"><span>Credits</span></h5>
             <footer class="site-footer">
-                HELLO
+                Image credits
+                <section class="copyright"><a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA <a href="{{@blog.url}}/">{{site.author}}</a></section>
               </div>
             </footer>
           </div>
