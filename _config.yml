@@ -13,9 +13,10 @@ logo: "/assets/images/aw_logo.jpg"
 # blog cover
 cover: "/assets/images/notredame2.jpg"
 
-name: 'Audrey Watters'
-author: 'Audrey Watters'
-author_image: "/assets/images/author.jpg"
+author:
+  - name: 'Audrey Watters'
+    author_image: "/assets/images/author.jpg"
+    bio: "http://audreywatters.com"
 
 paginate:	5
 paginate_path: "/blog/page:num"
