@@ -28,7 +28,7 @@ social:
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
-    share_link: "&amp;url="
+    share_link: "&url="
 
   - icon:	facebook
     url:	
