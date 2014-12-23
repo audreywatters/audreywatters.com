@@ -49,7 +49,7 @@ social:
     desc:	
     share_url: https://plus.google.com/share
     share_title: ?t=
-    share_link: &url=
+    share_link: "&url="
 
   - icon: rss
     url:  http://feeds.feedburner.com/audreywatters
