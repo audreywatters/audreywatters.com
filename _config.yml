@@ -48,9 +48,9 @@ social:
   - icon:	google-plus
     url:	
     desc:	
-    share_url: https://plus.google.com/share
-    share_title: ?t=
-    share_link: "&url="
+    share_url:
+    share_title:
+    share_link:
 
   - icon: rss
     url:  http://feeds.feedburner.com/audreywatters
@@ -58,4 +58,11 @@ social:
     share_url:
     share_title:
     share_link:
+
+  - icon: envelope
+    url:  mailto:mail@audreywatters.com
+    desc: Email
+    share_url:
+    share_title:
+    share_link:    
   
