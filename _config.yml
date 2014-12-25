@@ -7,6 +7,8 @@ title: "Audrey Watters"
 description: > # this means to ignore newlines until "email:"
    Troublemaker
 
+url: http://audreywatters.com
+
 email: mail@audreywatters.com
 #blog logo
 logo: "/assets/images/aw_logo.jpg"
