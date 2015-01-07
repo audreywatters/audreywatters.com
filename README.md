@@ -1,4 +1,4 @@
 audreywatters.com
 =================
 
-Blog (Jekyll)
+This repo powers audreywatters.com
