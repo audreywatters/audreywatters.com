@@ -94,6 +94,7 @@
 <p>St. Clares, Oxford England, 1990</p>
 <h3>Publications</h3>
 <p>Watters, Audrey. <em>The Monsters of Education Technology</em>. Tech Gypsies Publishing, 2014</p>
+<p>---. "Top 10 Ed-Tech Trends of 2014, Part One." <em>Tech & Learning</em>, December 2014</p>
 <p>---. "Teacher Wars and Teaching Machines. "<em>Boundary 2</em>, December 2014</p>
 <p>---. "Ed-Tech Year in Review." <em>Model View Culture</em>, December 2014</p>
 <p>---. "The Problem with Personalization," <em>Australian Educational Leader</em>, November 2014</p>
@@ -197,6 +198,7 @@
 <h3>Podcasts and Radio</h3>
 <p>Watters, Audrey. Ed-Tech Concerns, November - December, 2014</p>
 <p>Watters, Audrey, with Steve Hargadon. Hack Education Weekly Podcast, 2011 - 2013</p>
+<p>Guest appearance on EPT</p>
 <p>Guest appearance on Teaching in Higher Ed</p>
 <p>Guest appearance on Writing, Education, Technology</p>
 <p>Guest appearance on Edukwest</p>
