@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/audreywatters
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://audreywatters.com
+  * I am audreywatters (https://keybase.io/audreywatters) on keybase.
+  * I have a public key with fingerprint 6B8B 1DAF 0C36 9EA2 73D6  39C2 C757 9389 4FFA 4436
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "6b8b1daf0c369ea273d639c2c75793894ffa4436",
+            "host": "keybase.io",
+            "key_id": "c75793894ffa4436",
+            "kid": "0101f129b5da00d09facaddefca3295330d63898588702f0dc77621b61f0b22ec42a0a",
+            "uid": "6b499a7c6d9e54174cd47210a5e44819",
+            "username": "audreywatters"
+        },
+        "service": {
+            "hostname": "audreywatters.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1427323004,
+    "expire_in": 157680000,
+    "prev": "3bf652f0b8bde6646eacf824e6c88648df7c66f9410f4b9d50b9d8597c33d7bf",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIgAnicbVJbSFRBGN5NjVxbLBWiG+GpDGqROefMuS1BYvlQVItQgbYlc2bmrAdz
+z3b27NpmPXV7kFK0jC4EJWXZBaPCqB5SpLItAxPfIpaKgtIullBJNUfqrXmYYf7/
++75/vn/+fn+Wx+fV8ma+P5fRt3nTvesSns2F6p5GTrdIigs2cnV06jDMaITaMduM
+OlyQk3VV5wkyABZljSJBEYksaljAiqRooqpBw0AQijIX4GqtuMtgMjqK01LTYjF2
+qTEJi/4HXzeVADzgDV7QdIkgAAjQDIQRIdTASBQ0SRQBK6hqqqSqChAMQLCiyAKv
+y7wBdEGgGAoIICaXmJKTdahpSMEy0agEeQViAhWBB0iiEKq85gLj1I6iesrQKEFs
+mmpAjkPtOLc3wLFU0sTU7YNr53+wUmzVM5WYbTkWtnawdK3jxIIu20nFXHgD1Wv+
+CtXoZpSwhjJCknFNK8oFeYbEjukq85A1VBABgAGO7oqZNq0xXYSkyCpgyy1Dk0xS
+1A1ZYu7ZbxAqy1CmCBuqAKmMVVWGKjGYZdnQIA8MqGtEAmxTJU3BokgU3eBcazuj
+FhcU2DNRhEnGzUgUOQmbcnv77oezPV6fZ3rONHckPL7cWf8G5fb6GZ72ZbMX7Ju9
+tm/VaHbB4cWpTOjcgP3y+6av55tLrs6b9PccFRufhjoffbw2VnLpYvp45GoZWNg7
+/XbriuHrx7YfWto+OFQ1UDiZcz09fLrt689lvk/rfrxo63lTeyPtP9PzVui9+WVB
+Y/eJXxu8+XUtT05ViAfG71V1tx7pX1RQ/jhz5RkfXrUoll6Z9WDrt1CntcU/kTdy
+Ye7D510fLkBxaL+y5G7Z4tz50p32d5/Rar1uc8uMTb9fh82hbJAcuZzIn2xKj5Vv
+rCxuLgyX1cYrx4s6koPVVftOjubG5pw9ldzd1FldtDy+pujgREwNrcbPvRO3jlfk
+d2WKO97MKf75ahrNCvwB6+UpnQ==
+=Ou5f
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/audreywatters
+
+==================================================================
