@@ -8,8 +8,7 @@ layout: default
     {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
 
     {% if forloop.first %}
-    <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
-    <br />
+    <h5 id="{{ this_year }}-ref">{{this_year}}</h5>
     <h3 id="{{ this_year }}-{{ this_month }}-ref">{{ this_month }}</h3>
     <ul>
     {% endif %}
