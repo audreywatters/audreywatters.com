@@ -9,7 +9,7 @@ layout: default
 
     {% if forloop.first %}
     <h3 id="{{ this_year }}-ref">{{this_year}}</h3>
-    <h5 id="{{ this_year }}-{{ this_month }}-ref">{{ this_month }}</h5>
+    <h3 id="{{ this_year }}-{{ this_month }}-ref">{{ this_month }}</h3>
     <ul>
     {% endif %}
 
@@ -21,12 +21,12 @@ layout: default
         {% if this_year != next_year %}
         </ul>
         <h3 id="{{ next_year }}-ref">{{next_year}}</h3>
-        <h5 id="{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</h5>
+        <h3 id="{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
         <ul>
         {% else %}    
             {% if this_month != next_month %}
             </ul>
-            <h5 id="{{ this_year }}-{{ next_month }}-ref">{{ next_month }}</h5>
+            <h3 id="{{ this_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
             <ul>
             {% endif %}
         {% endif %}
