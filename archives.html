@@ -14,7 +14,7 @@ title: Personal Blog: Archives
     <ul>
     {% endif %}
 
-    <li><a href="{{ post.url }}">{{ post.title }}</a>, {{ post.date }}</li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a>, {{ post.date | date: '%B %Y' }}</li>
 
     {% if forloop.last %}
     </ul>
