@@ -64,7 +64,8 @@
 <h3>   Professional Experience</h3>
 <p>Writer/Owner, <a href="http://hackeducation.com"><em>Hack Education</em></a>, Spring 2010 - present</p>
 <p>Freelance Writer, Spring 2010 - present</p>
-<p>Editor and Lead Writer, <a href="http://modernlearners.com"><em>Educating Modern Leaders</em></a>, 2014</p>
+<p>Lead Writer, Educating Modern Learners, 2015 - present</p>
+<p>Editor and Lead Writer, <a href="http://modernlearners.com"><em>Educating Modern Learners</em></a>, 2014</p>
 <p>Special Interest Group Program Manager, International Society for Technology in Education (ISTE), Spring 2008 - Spring 2010</p>
 <p>Graduate Teaching Fellowship, University of Oregon, Fall 1999 - Fall 2000, Fall 2001 - Summer 2007</p>
 <p>Practicum Coordinator, University of Oregon Literacy Initiative, Winter - Spring 2001</p>
@@ -80,6 +81,8 @@
 <p>IB, St. Clares, 1990</p>
 
 <h3>Publications</h3>
+<p>Watters, Audrey. "Men (Still) Explain Technology to Me." <em>Boundary2</em>, April 2015</p>
+<p>---. "The Automatic Teacher." <em>Boundary2</em>, April 2015</p>
 <p>Watters, Audrey, with Sara Goldrick-Rab. "Techno Fantasies." <em>Inside Higher Ed</em>, March 2015</p>
 <p>Watters, Audrey. "Top 10 Ed-Tech Trends of 2014, Part Two." <em>Tech & Learning</em>, January 2015</p>
 <p>---. <em>The Monsters of Education Technology</em>. Tech Gypsies Publishing, 2014</p>
@@ -170,7 +173,8 @@
 <p>---. Theory and Practice panel. Ecological Conversations Colloquium. University of Oregon, May 6, 2002</p>
 
 <h3>Guest Lectures</h3>
-<p>Watters, Audrey. "Men (Still) Explain Technology to Me: Gender and Education Technology." Leeds Beckett University, March 11, 2015</p>
+<p>Watters, Audrey. "Ed-Tech's Inequalities." Western Oregon University, April 8, 2015</p>
+<p>---. "Men (Still) Explain Technology to Me: Gender and Education Technology." Leeds Beckett University, March 11, 2015</p>
 <p>---. "Men Explain Technology to Me: On Gender, Ed-Tech, and the Refusal to Be Silent." University of Mary Washington. University of Regina. November 18, 2014</p>
 <p>---. "Convivial Tools in an Age of Surveillance." New York University. November 13, 2014</p>
 <p>---. "Ed-Tech Privacy and Terms of Service (Workshop)." Pepperdine University. November 5, 2014</p>
@@ -184,9 +188,9 @@
 <p>---. Folklore and Religion. English 250 Introduction to Folklore. University of Oregon. November 11, 1999</p>
 
 <h3>Webinars</h3>
-<p>Watters, Audrey, with Bryan Alexander. "Developments in Higher Education Educational Technology: The Horizon Report in Action." EDUCAUSE Live!, March 24, 2015.</p>
+<p>Watters, Audrey, with Bryan Alexander. "Developments in Higher Education Educational Technology: The Horizon Report in Action." EDUCAUSE Live!, March 24, 2015</p>
 <p>Watters, Audrey, with Michael Feldstein and Phil Hill. "Year in Review and Year Ahead," ELI Webinar, December 8, 2014</p>
-<p>Watters, Audrey, with Justin Reich, Vanessa Gennarelli, and Andrew Sliwinski. "Better Learning Analytics: Lessons from EdX, Hack Education, Mozilla + P2PU," P2PU webinar, August 19, 2014.</p>
+<p>Watters, Audrey, with Justin Reich, Vanessa Gennarelli, and Andrew Sliwinski. "Better Learning Analytics: Lessons from EdX, Hack Education, Mozilla + P2PU," P2PU webinar, August 19, 2014</p>
 <p>Watters, Audrey, with Jonathan Worth, Jade Davis, Howard Rheingold, Martha Burtis, and Anne Balsamo. "Higher Education as a Trusted Environment for Learning," HASTAC webinar, July 29, 2014</p>
 <p>Watters, Audrey with Drew Davidson. "Reaching Our Audiences: Strategies for Disseminating Research, Design, and Practice," Working Examples, April 15, 2014</p>
 <p>Watters, Audrey. "The State of Global OER," AMICAL webinar, November 25, 2013</p>
@@ -232,6 +236,7 @@
 <p>English 250 Introduction to Folklore, (Prof. Sharon Sherman), University of Oregon,  Fall 1999</p>
 
 <h3>Awards and Other Activities</h3>
+<p>"Tech Innovators 2015," <em>The Chronicle of Higher Education</em>, 2015</p>
 <p>Recipient, Shuttleworth Foundation Flash Grant, 2014</p>
 <p>Board Member, Inquiry Schools, Summer 2014 - present</p>
 <p>Conference Committee DML 2015, Summer 2014 - present</p>
@@ -248,7 +253,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated March 2015</h6>
+<h6>last updated April 2015</h6>
 
 
 </body>
