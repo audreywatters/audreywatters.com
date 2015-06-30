@@ -81,7 +81,9 @@
 <p>IB, St. Clares, 1990</p>
 
 <h3>Publications</h3>
-<p>Watters, Audrey. "Men (Still) Explain Technology to Me." <em>Boundary2</em>, April 2015</p>
+<p>Watters, Audrey. "Is It Time to Give Up on Computers in Schools?" <em>Hybrid Pedagogy</em>, June 2015</p>
+<p>---. "Education Technology's Conscientious Objector." <em>The Journal of Interactive Technology and Pedagogy</em>, June 2015</p>
+<p>---. "Men (Still) Explain Technology to Me." <em>Boundary2</em>, April 2015</p>
 <p>---. "The Automatic Teacher." <em>Boundary2</em>, April 2015</p>
 <p>Watters, Audrey, with Sara Goldrick-Rab. "Techno Fantasies." <em>Inside Higher Ed</em>, March 2015</p>
 <p>Watters, Audrey. "Top 10 Ed-Tech Trends of 2014, Part Two." <em>Tech & Learning</em>, January 2015</p>
@@ -120,7 +122,8 @@
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 
 <h3>Keynotes and Conference Presentations</h3>
-<p>Watters, Audrey. "The Golden Lasso of Education Technology," Davidson College. May 8, 2015</p>
+<p>Watters, Audrey. "Learning Networks, Not Teaching Machines," EDEN 2015. June 10, 2015</p>
+<p>---. "The Golden Lasso of Education Technology," Davidson College. May 8, 2015</p>
 <p>---. "The History of the Future of Education," ChangSchoolTalks. February 19, 2015</p>
 <p>---. "From 'Open' to Justice," OpenCon 2014. November 16, 2014</p>
 <p>---. "Ed-Tech's Monsters," ALT-C. September 3, 2014</p>
@@ -153,6 +156,7 @@
 <p>Richardson, Tina and Audrey Vanderford, "Boobs and Butterflies: Eco-feminine Complicity (Or, How to Manufacture an Environmental Pin-up Girl)," Ecological Conversations Seminar, University of Oregon. April 6, 2001</p>
 
 <h3>Panel Presentations</h3>
+<p>Watters, Audrey with Gary Stager, Will Richardson, Martin Levins, David Thornburg, and Wayne D'Orio. "Is It Time to Give Up on Computers in Schools?" ISTE 2015, June 29, 2015</p>
 <p>Watters, Audrey with Karen Gregory, Daniel Joseph, Matthew Tiessen, Austin Walker, and Dan Greene. "Digital Labor and Geographies of Crisis." Digital Labor 2014. November 15, 2014</p>
 <p>Watters, Audrey with Li Yuan, Stephen Powell, and Amy Woodgate. "Open Education: A New World Order," CETIS 2014, June 17, 2014</p>
 <p>Watters, Audrey with David Kernohan, Lou McGill, Jonathan Worth, Antonio Martinez-Arboleda, Viv Rolfe, George Roberts, Lorna Campbell, Jim Groom, and David Wiley. "Beyond MOOCs," Digifest, March 12, 2014</p>
@@ -198,8 +202,9 @@
 <p>Watters, Audrey. "The State of Global OER," AMICAL webinar, November 25, 2013</p>
 <p>---. "Who Owns Your Education Data? (And Why Does It Matter?)" ETMOOC, February 26, 2013</p>
 
-<h3>Podcasts and Radio</h3>
-<p>Watters, Audrey. Ed-Tech Concerns, November - December, 2014</p>
+<h3>Podcasts and Media Appearances</h3>
+<p>Guest appearance on TWIT.tv, June 2015</p>
+<p>Guest appearance on Ed-Tech Concerns, November - December, 2014</p>
 <p>Watters, Audrey, with Steve Hargadon. Hack Education Weekly Podcast, 2011 - 2013</p>
 <p>Guest appearance on EPT</p>
 <p>Guest appearance on Teaching in Higher Ed</p>
@@ -241,7 +246,7 @@
 <p>"Tech Innovators 2015," <em>The Chronicle of Higher Education</em>, 2015</p>
 <p>Recipient, Shuttleworth Foundation Flash Grant, 2014</p>
 <p>Board Member, Inquiry Schools, Summer 2014 - present</p>
-<p>Conference Committee DML 2015, Summer 2014 - present</p>
+<p>Conference Committee DML 2015</p>
 <p>Advisor, Working Examples, 2013 - 2014</p>
 <p>Advisory Board, SXSWedu, 2012 - 2014</p>
 <p>Judge, Canvas Innovation Grant, Spring 2014</p>
@@ -255,7 +260,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated May 2015</h6>
+<h6>last updated June 2015</h6>
 
 
 </body>
