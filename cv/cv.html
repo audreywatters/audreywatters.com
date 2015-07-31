@@ -81,7 +81,8 @@
 <p>IB, St. Clares, 1990</p>
 
 <h3>Publications</h3>
-<p>Watters, Audrey. "Is It Time to Give Up on Computers in Schools?" <em>Hybrid Pedagogy</em>, June 2015</p>
+<p>Watters, Audrey. "The Web We Need to Give Students." <em>Bright</em>, July 2015</p>
+<p>---. "Is It Time to Give Up on Computers in Schools?" <em>Hybrid Pedagogy</em>, June 2015</p>
 <p>---. "Education Technology's Conscientious Objector." <em>The Journal of Interactive Technology and Pedagogy</em>, June 2015</p>
 <p>---. "Men (Still) Explain Technology to Me." <em>Boundary2</em>, April 2015</p>
 <p>---. "The Automatic Teacher." <em>Boundary2</em>, April 2015</p>
@@ -260,7 +261,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated June 2015</h6>
+<h6>last updated July 2015</h6>
 
 
 </body>
