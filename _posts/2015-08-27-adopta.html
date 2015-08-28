@@ -1,0 +1,74 @@
+---
+layout: post
+title: "How to Get Started with Adopting a Federal Dataset"
+date: 2015-08-27  10:50:00 +0000
+categories: 
+tags: 
+image: https://s3.amazonaws.com/audreywatters/2015-08-27-blueprint.jpg
+imagecredits: https://www.flickr.com/photos/btobin/4456582998/
+---
+<p>~THIS IS A VERY ROUGH DRAFT of a guide to help people get started with <a href="http://adopta.agency/">Kin Lane's Adopta.Agency project</a>~</p>
+
+<p>Tools you&#8217;ll need:</p>
+
+<ul>
+<li>A GitHub account</li>
+<li>GitHub&#8217;s desktop software for <a href="https://windows.github.com/">Windows</a> or <a href="https://mac.github.com/">Mac</a> (optional)</li>
+<li>A text editor for code (I use <a href="http://www.sublimetext.com/">Sublime Text</a>. There are many options, free and paid. Experiment until you find one you like.)</li>
+<li>Spreadsheet software for cleaning up datasets (Google Docs works just fine)</li>
+</ul>
+
+<h3>Getting Started:</h2>
+<br />
+<p><img src="https://s3.amazonaws.com/audreywatters/screenshot_adopta1.png"></p>
+<br />
+<ol>
+<li>Find a government dataset to adopt. You can start at <a href="http://data.gov">data.gov</a> or you can go directly to an agency or department and find a dataset. (This project is meant to be extensible far beyond the federal government&#8217;s open data initiative.)</li>
+<li><a href="https://github.com/adopta-agency/adopta-blueprint">Fork the initial Adopta.Agency blueprint</a> on GitHub.</li>
+</ol>
+
+<h3>Getting Started with GitHub:</h3>
+<br />
+<p><img src="https://s3.amazonaws.com/audreywatters/screenshot_adopta2.png"></p>
+
+<p>Go to the <a href="https://github.com/adopta-agency/adopta-blueprint">Adopta.Agency blueprint</a>, and &#8220;fork&#8221; the repository. This makes a copy of the repository in <em>your</em> account, which allows you to make changes without affecting the original repo. (You can, however, make changes that you&#8217;d like to see incorporated into a repo. This is a &#8220;pull request.&#8221;)</p>
+
+<p>Your version of the Adopta.Agency blueprint will live at a URL that looks like this: http://[your username].github.io/adopta-blueprint. You can rename the repository, if you like. Or (what I recommend) is that you use this blueprint in turn as your own template for the datasets you plan to work on.</p>
+
+<p>I use GitHub&#8217;s Mac app in order to work with the repositories I have hosted on the site. Some folks edit code directly via the GitHub website; some folks use the command line. Choose the method you prefer &#8211; my instructions are based on my own processes. <em>There are many ways to do the very same thing</em>.</p>
+
+<p>Using the GitHub Mac app, I have cloned a copy of the Adopta.Agency blueprint to my computer. This means I can now make edits offline. These edits stay &#8220;local&#8221; until I sync them with the online repository. By having the files on my own computer, it also means I can open them using a text editor I prefer. </p>
+
+<p>So let&#8217;s explore what&#8217;s inside that blueprint repo&#8230;</p>
+
+<p><img src="https://s3.amazonaws.com/audreywatters/screenshot_adopta3.png"></p>
+
+<p>The blueprint uses <a href="http://jekyllrb.com/">Jekyll</a>, which is the framework that runs GitHub Pages. Most of the files that you&#8217;ll be editing in this repository are in HTML, Markdown, or JSON. If you look at the files and folders, many of them are pretty self-explanatory: the CSS folder contains the CSS for the site; the blog folder is where blog posts chronicling the project&#8217;s updates will go; the blog.xml file generates the RSS feed; the data folder contains the data; and so on.</p>
+
+<p>If you look inside the &#8220;_layouts&#8221; folder, you&#8217;ll see three files: default.html, page.html, post.html. This is a variable that&#8217;s set at the top of the HTML files that are to be displayed. Open up the default.html file, and have a peek at what&#8217;s going to appear on most of the pages associated with this repo.</p>
+
+<p><em>You can make changes to any of these files.</em> You can always roll back your changes if you mess something up. That&#8217;s one of the features of GitHub: version control.</p>
+
+<p>The important file for you to first edit is the one called _config.yml. (YML means &#8220;yet another markup language&#8221; because programmers think they&#8217;re hilarious.) This file controls a lot of what happens in your site &#8211; the project title, the names of people in your team, the URL where the project lives, etc. </p>
+
+<p><img src="https://s3.amazonaws.com/audreywatters/screenshot_adopta4.png"></p>
+
+<p>You&#8217;ll notice that some of what&#8217;s in that YML file is &#8220;commented out&#8221; &#8211; that is, it&#8217;s prefaced with a hashtag (which serves as a comment tag) so as to provide a message to the <em>humans</em> who read the file but not to the computers who do so. (Computers just ignore the comments.)</p>
+
+<p>You&#8217;ll also notice that each sub-section starts with a command like showcase_show or api_show. This allows you to toggle on and off what you want to appear on your index.html page (that is, the page that folks will land on when they go to your project site&#8217;s &#8220;home.&#8221;)</p>
+
+<p>If you look at the index.html file, you can wade through the code and see the logic behind it: depending on the &#8220;yes&#8221; or &#8220;no&#8221; you&#8217;ve put in the YML file, certain things will be &#8220;true&#8221; and will therefore appear on the landing page.</p>
+
+<p>Again, feel free to experiment with any of these files and options. You can always revert to an older version. The original repository has several working examples for you to look at (such as the farmers&#8217; markets CSV and JSON files) for you to model your own project on. But you aren&#8217;t obligated to do it all &#8211; that is, you don&#8217;t have to have an API. You don&#8217;t have to create interactive API documentation. You don&#8217;t have to maintain a blog. The blueprint is just an outline. Once you fork the project, it&#8217;s yours to push forward.</p>
+
+<h3>Getting Started with Cleaning Data:</h3>
+<br />
+<p>So here are the main ideas that drive the <a href="http://adopta.agency/">Adopta.Agency</a> project:</p>
+
+<ol>
+<li>Identify Data: Come up with ideas for Adopta projects, targeting specific data and topics for improvement.</li>
+<li>Improve Data: Acquire, clean up, organize, convert, and publish the data as simple CSV and JSON files.</li>
+<li>Share Data: Publish the data to Github as publicly available JSON and CSV files, and if you can, an API as well.</li>
+</ol>
+
+<p>That <em>improve</em> piece is key, but tough. A lot of the datasets you&#8217;ll find are not in open formats. They&#8217;re in PDFs or Excel files, for example. And even when they are in open formats (TXT, CSV, JSON files), often the data is a mess. (Here&#8217;s <a href="http://kinlane.github.io/csv-converter/">one useful tool</a> that lets you convert a CSV to JSON that'll get you started. You can convert an Excel file or Google Spreadsheet to CSV, and go from there.) More tips on cleaning up data and what to do when the government has released &#8220;open data&#8221; in some ridiculously proprietary format coming soon&#8230;</p>
