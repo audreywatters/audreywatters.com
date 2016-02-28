@@ -24,6 +24,11 @@ paginate:	5
 paginate_path: "/blog/page:num"
 permalink: /:categories/:year/:month/:day/:title 
 
+url: "http://audreywatters.com" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@audreywatters'
+
 # social icons and sharing options
 social:
   - icon:	twitter
@@ -36,9 +41,9 @@ social:
   - icon:	facebook
     url:	https://facebook.com/audreywatters
     desc: Friend me on Facebook
-    share_url: http://www.facebook.com/sharer.php
-    share_title: ?t=
-    share_link: "&amp;u="
+    share_url: http://www.facebook.com/sharer/sharer.php
+    share_title: ?title=
+    share_link: "?u="
 
   - icon:	github
     url:	https://github.com/audreywatters
@@ -47,12 +52,12 @@ social:
     share_title:
     share_link:
 
-  - icon:	google-plus
-    url:	
-    desc:	
-    share_url:
-    share_title:
-    share_link:
+#  - icon:	google-plus
+#    url:	
+#    desc:	
+#    share_url:
+#    share_title:
+#    share_link:
 
   - icon: rss
     url:  http://audreywatters.com/feed.xml
