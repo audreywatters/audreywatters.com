@@ -11,10 +11,11 @@ url: http://audreywatters.com
 
 email: mail@audreywatters.com
 #blog logo
-logo: "/assets/images/aw_logo.jpg"
+logo: "/assets/images/new_hack_logo.jpg"
+logo2: "/assets/images/beless.png"
 # blog cover
-cover: "/assets/images/notredame2.jpg"
-covercredits: "https://www.flickr.com/photos/surreal_badger/15462092744/"
+cover: "/assets/images/typewriter.png"
+covercredits: "http://bryanmmathers.com/"
 
 name: 'Audrey Watters'
 author: 'Audrey Watters'
