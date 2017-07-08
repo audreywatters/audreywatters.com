@@ -1,3 +1,9 @@
+## CONTENT
+
+The content on this site is licensed CC-BY-NC-SA by Audrey Watters
+
+## CODE
+
 The mediator Jekyll theme is licenced under MIT License (MIT)
 
 Copyright (c) 2014 Dirk Fabisch
@@ -20,4 +26,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-The content on this site is licensed CC-BY-NC-SA by Audrey Watters
+
