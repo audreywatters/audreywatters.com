@@ -2,6 +2,8 @@
 
 The content on this site is licensed CC-BY-NC-SA by Audrey Watters
 
+Copyright (c) 2017 Audrey Watters
+
 ## CODE
 
 The mediator Jekyll theme is licenced under MIT License (MIT)
