@@ -4,10 +4,10 @@
   "about": "Audrey Watters is a journalist specializing in education technology news and analysis.  Although she was two chapters into her PhD dissertation, she decided to abandon academia, and she now happily fulfills the one job recommended to her by a junior high aptitude test: freelance writer.",
   "photo": "http://www.flickr.com/photos/cogdog/10295189744/",
   "address": {
-    "street": "409 N Pacific Coast Hwy #708",
-    "city": "Redondo Beach",
-    "state": "CA",
-    "zip": "92077",
+    "street": "2753 Broadway, No. 210",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10025",
     "country": "United States"
   },
   "contact": {
@@ -24,8 +24,8 @@
       "url": "http://teachingmachin.es"
     }
     {
-      "name": "Tech Gypsies",
-      "url": "http://techgypsi.es"
+      "name": "Contrafabulists",
+      "url": "http://contrafabulists.com"
     }
   ],
   "social": [
